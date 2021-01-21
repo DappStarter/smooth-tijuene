@@ -1,0 +1,19 @@
+{
+    "name": "sparcs",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/file_storage/ipfs": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/symbol": "SPARC",
+        "/category/asset_value_tracking/token/name": "SPARCS",
+        "/category/asset_value_tracking/token/decimals": "2",
+        "/category/asset_value_tracking/token/supply": "10000000",
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/collection/entity": true
+    }
+}
